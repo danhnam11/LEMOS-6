@@ -1,0 +1,4 @@
+decayingVorton.C
+decayingTurbulenceFvPatchVectorField.C
+
+LIB = $(FOAM_USER_LIBBIN)/libInflowGenerator
